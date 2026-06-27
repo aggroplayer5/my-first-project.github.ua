@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "body-parse": "^0.1.0",
+    "body-parser": "^2.2.2",
+    "cookie-parser": "^1.4.7",
+    "express": "^5.2.1",
+    "sqlite3": "^6.0.1"
+  }
+}
